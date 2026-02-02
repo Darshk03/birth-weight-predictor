@@ -41,7 +41,7 @@ def get_prediction():
     baby_df = pd.DataFrame([baba_data_cleaned])
     
     #load ml trained model
-    with open('model/model.pkl','rb') as obj:
+    with open('model.pkl','rb') as obj:
         model = pickle.load(obj)
         
     # make a predictions on new/user/unseen data
