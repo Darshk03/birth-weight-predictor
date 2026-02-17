@@ -4,8 +4,6 @@ A production-minded Flask application that predicts newborn birth weight using a
 
 Live demo: https://birth-weight-predictor-dt90.onrender.com
 
-GitHub: https://github.com/Darshk03/birth-weight-predictor
-
 ---
 
 ## Project Snapshot (for HR / Recruiters)
