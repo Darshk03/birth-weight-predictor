@@ -183,7 +183,3 @@ curl -X POST "https://birth-weight-predictor-dt90.onrender.com/predict" \
 
 ---
 
-If you'd like, I can also:
-- create a trimmed LinkedIn post (150–250 words) tailored to HR,
-- add a `Procfile` and Heroku instructions,
-- add Swagger routes using `Flask-RESTx` and include a Postman collection.
